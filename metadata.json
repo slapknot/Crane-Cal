@@ -1,0 +1,6 @@
+{
+  "name": "CraneLift Pro - Dynamic Crane Lifting & Safety Simulator",
+  "description": "Professional engineering simulation tool for mobile and tower crane lift planning, real-time 3D/2D CAD visualization, ASME B30/EN 13000 safety compliance, and automated PDF safety assessment reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
